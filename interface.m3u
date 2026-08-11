@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml" 
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv1.png" group-title="央视频道",四川卫视
+${replace}/sctv1
+#EXTINF:-1 tvg-name="经济频道" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv2.png" group-title="央视频道",经济频道
+${replace}/sctv2
+#EXTINF:-1 tvg-name="文化旅游" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv3.png" group-title="央视频道",文化旅游
+${replace}/sctv3
+#EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv4.png" group-title="央视频道",新闻频道
+${replace}/sctv4
+#EXTINF:-1 tvg-name="影视文艺" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv5.png" group-title="央视频道",影视文艺
+${replace}/sctv5
+#EXTINF:-1 tvg-name="星空购物" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv6.png" group-title="央视频道",星空购物
+${replace}/sctv6
+#EXTINF:-1 tvg-name="妇女儿童" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv7.png" group-title="央视频道",妇女儿童
+${replace}/sctv7
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.136605.xyz/tvg-logo/sctv9.png" group-title="央视频道",四川乡村
+${replace}/sctv9
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.136605.xyz/tvg-logo/kangba.png" group-title="央视频道",康巴卫视
+${replace}/kangba
+#EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.136605.xyz/tvg-logo/4ksctv1.png" group-title="央视频道",四川卫视4k
+${replace}/4ksctv1
